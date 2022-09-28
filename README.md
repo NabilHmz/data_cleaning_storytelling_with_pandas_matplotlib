@@ -8,7 +8,7 @@ The main purpose of this project is to settle an ongoing debate in Eniac, an onl
 * Most of the orders are placed on discounted products.
 * Season sales are crucial to revenue.
 
-# Improvement of Data collection
+# Improvement of Data Collection
 
 * Data pipelines connecting the online store with the database should be improved.
 * Prevent the Data Defects.
